@@ -1,0 +1,589 @@
+2015-07-11-13-21-54-http-bio-8080-exec-6--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-21-54-http-bio-8080-exec-6--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-11-13-26-45-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-26-45-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ReserveDAO:Hulk--Listing theaters
+2015-07-11-13-26-47-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-26-59-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-26-59-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-11-13-37-13-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-37-13-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-11-13-37-57-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-37-57-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-11-13-39-21-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-39-21-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-11-13-39-38-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-39-38-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-11-13-39-55-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-39-55-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-11-13-41-35-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-41-35-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ReserveDAO:Dawn of the Planet of the Apes--Listing theaters
+2015-07-11-13-43-06-http-bio-8080-exec-6--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-43-06-http-bio-8080-exec-6--INFO -com.pickmyreel.DAO.ReserveDAO:The Wolverin--Listing theaters
+2015-07-11-13-43-23-http-bio-8080-exec-6--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-43-23-http-bio-8080-exec-6--INFO -com.pickmyreel.DAO.ReserveDAO:Chappie--Listing theaters
+2015-07-11-13-43-58-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-43-58-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ReserveDAO:Avengers2--Listing theaters
+2015-07-11-13-44-31-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-44-31-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ReserveDAO:The Raid--Listing theaters
+2015-07-11-13-45-08-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-45-08-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-11-13-45-41-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-45-41-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ReserveDAO:Jurassic World--Listing theaters
+2015-07-11-13-46-05-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-46-05-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-11-13-46-12-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-46-12-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ReserveDAO:Hulk--Listing theaters
+2015-07-11-13-48-46-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-48-46-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-11-13-48-54-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-48-54-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-11-13-51-18-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-51-18-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ReserveDAO:Cinderella--Listing theaters
+2015-07-11-13-51-23-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-51-23-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-11-13-51-28-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-51-28-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ReserveDAO:Inside Out--Listing theaters
+2015-07-11-13-51-34-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-51-34-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ReserveDAO:Fast and Furious7--Listing theaters
+2015-07-11-13-56-57-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-56-57-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-11-13-57-07-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-57-07-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ReserveDAO:Cinderella--Listing theaters
+2015-07-11-13-58-58-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-58-58-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-11-13-59-04-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-59-04-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ReserveDAO:Cinderella--Listing theaters
+2015-07-11-13-59-08-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-59-08-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ReserveDAO:Fast and Furious7--Listing theaters
+2015-07-11-13-59-18-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-13-59-18-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ReserveDAO:Inside Out--Listing theaters
+2015-07-11-14-02-15-http-bio-8080-exec-10--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-02-15-http-bio-8080-exec-10--INFO -com.pickmyreel.DAO.ReserveDAO:Seventh son--Listing theaters
+2015-07-11-14-02-57-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-02-57-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ReserveDAO:Hulk--Listing theaters
+2015-07-11-14-03-03-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-03-03-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-11-14-05-00-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-05-00-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-11-14-05-06-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-05-06-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ReserveDAO:Cinderella--Listing theaters
+2015-07-11-14-05-12-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-05-12-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ReserveDAO:Fast and Furious7--Listing theaters
+2015-07-11-14-05-17-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-05-17-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ReserveDAO:Inside Out--Listing theaters
+2015-07-11-14-05-22-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-05-22-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ReserveDAO:Seventh son--Listing theaters
+2015-07-11-14-06-12-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-06-12-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-11-14-08-54-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-08-54-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ReserveDAO:Seventh son--Listing theaters
+2015-07-11-14-09-12-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-09-12-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ReserveDAO:Inside Out--Listing theaters
+2015-07-11-14-09-17-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-09-17-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ReserveDAO:Hulk--Listing theaters
+2015-07-11-14-09-23-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-09-23-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-11-14-09-32-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-09-32-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-11-14-09-46-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-09-46-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ReserveDAO:Jurassic World--Listing theaters
+2015-07-11-14-09-51-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-09-51-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-11-14-10-36-http-bio-8080-exec-14--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-10-36-http-bio-8080-exec-14--INFO -com.pickmyreel.DAO.ReserveDAO:The Raid--Listing theaters
+2015-07-11-14-16-40-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-16-40-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ReserveDAO:Cinderella--Listing theaters
+2015-07-11-14-16-46-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-16-46-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ReserveDAO:Fast and Furious7--Listing theaters
+2015-07-11-14-16-52-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-16-52-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ReserveDAO:Inside Out--Listing theaters
+2015-07-11-14-16-56-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-16-56-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ReserveDAO:Seventh son--Listing theaters
+2015-07-11-14-17-01-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-17-01-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ReserveDAO:Hulk--Listing theaters
+2015-07-11-14-17-08-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-17-08-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ReserveDAO:Jurassic World--Listing theaters
+2015-07-11-14-17-15-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-17-15-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:Hulk--Listing theaters
+2015-07-11-14-17-21-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-17-21-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-11-14-17-43-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-17-43-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ReserveDAO:The Raid--Listing theaters
+2015-07-11-14-18-51-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-18-51-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-11-14-18-58-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-18-58-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ReserveDAO:The Raid--Listing theaters
+2015-07-11-14-19-05-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-19-05-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ReserveDAO:Avengers2--Listing theaters
+2015-07-11-14-19-11-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-19-11-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ReserveDAO:Chappie--Listing theaters
+2015-07-11-14-19-20-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-19-20-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ReserveDAO:The Wolverin--Listing theaters
+2015-07-11-14-19-26-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-19-26-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ReserveDAO:Dawn of the Planet of the Apes--Listing theaters
+2015-07-11-14-27-32-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-27-32-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ReserveDAO:Dawn of the Planet of the Apes--Listing theaters
+2015-07-11-14-27-51-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-27-51-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ReserveDAO:Chappie--Listing theaters
+2015-07-11-14-27-57-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-27-57-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ReserveDAO:The Wolverin--Listing theaters
+2015-07-11-14-45-21-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-45-21-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.UserDAO:pasokan-CreatedID and LoggedIn
+2015-07-11-14-46-10-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-46-10-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ReserveDAO:Fast and Furious7--Listing theaters
+2015-07-11-14-49-13-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-55-25-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-56-16-http-bio-8080-exec-14--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-56-16-http-bio-8080-exec-14--INFO -com.pickmyreel.DAO.ReserveDAO:inSeatChart
+2015-07-11-14-58-03-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-58-03-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ReserveDAO:Fast and Furious7--Listing theaters
+2015-07-11-14-58-10-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-59-28-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-59-28-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.UserDAO:pasokan-LoggedIn
+2015-07-11-14-59-31-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-59-31-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.UserDAO:pasokan-History
+2015-07-11-14-59-48-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-59-48-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-11-14-59-49-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-14-59-49-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-11-15-33-20-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-15-33-20-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-11-16-24-29-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-16-24-29-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.UserDAO:ravali-CreatedID and LoggedIn
+2015-07-11-16-53-37-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-16-53-37-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-11-16-53-44-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-16-53-44-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ReserveDAO:Chappie--Listing theaters
+2015-07-11-16-53-46-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-16-55-50-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-16-55-50-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:Chappie--Listing theaters
+2015-07-11-19-36-55-http-bio-8080-exec-14--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-19-36-55-http-bio-8080-exec-14--INFO -com.pickmyreel.DAO.ReserveDAO:Chappie--Listing theaters
+2015-07-11-19-37-02-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-19-37-02-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-11-19-37-10-http-bio-8080-exec-13--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-19-37-10-http-bio-8080-exec-13--INFO -com.pickmyreel.DAO.ReserveDAO:Seventh son--Listing theaters
+2015-07-11-19-47-12-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-19-47-12-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-11-19-47-18-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-19-47-18-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-11-19-47-45-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-19-47-45-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-11-19-49-28-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-19-49-28-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-11-19-58-04-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-19-58-04-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-11-19-58-12-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-19-58-12-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-11-19-58-47-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-19-58-47-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-11-20-06-04-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-20-06-04-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-11-20-06-13-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-20-06-13-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ReserveDAO:Seventh son--Listing theaters
+2015-07-11-20-07-26-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-11-20-07-26-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ReserveDAO:Seventh son--Listing theaters
+2015-07-12-16-04-23-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-04-23-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-12-16-04-35-http-bio-8080-exec-10--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-04-35-http-bio-8080-exec-10--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-12-16-06-17-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-06-17-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-12-16-07-47-http-bio-8080-exec-6--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-07-47-http-bio-8080-exec-6--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-12-16-08-52-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-08-52-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-12-16-14-16-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-14-16-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-12-16-14-21-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-14-21-http-bio-8080-exec-9--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-12-16-14-43-http-bio-8080-exec-10--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-14-43-http-bio-8080-exec-10--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-12-16-34-07-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-34-07-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-34-07-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-35-05-http-bio-8080-exec-13--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-35-05-http-bio-8080-exec-13--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-35-05-http-bio-8080-exec-13--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-36-01-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-36-01-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-36-01-http-bio-8080-exec-11--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-36-46-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-36-46-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-36-46-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-38-02-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-38-02-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-38-02-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-38-04-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-38-04-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-38-04-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-38-24-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-38-24-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-38-24-http-bio-8080-exec-12--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-38-56-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-38-56-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-38-56-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-38-58-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-38-58-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-38-58-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-39-17-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-39-17-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-39-17-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-39-40-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-39-40-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-39-40-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-39-41-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-39-41-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-39-41-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-39-53-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-39-53-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-39-53-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-40-11-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-40-11-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-40-11-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-42-49-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-42-49-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-42-49-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-44-25-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-44-25-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-44-25-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-46-09-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-46-09-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-46-09-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-46-12-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-46-12-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-46-12-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-46-32-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-46-32-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-46-32-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-46-58-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-46-58-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-46-58-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-47-16-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-47-16-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-47-16-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-48-22-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-48-22-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-48-22-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-48-32-http-bio-8080-exec-21--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-48-32-http-bio-8080-exec-21--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-48-32-http-bio-8080-exec-21--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-49-04-http-bio-8080-exec-26--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-49-04-http-bio-8080-exec-26--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-49-04-http-bio-8080-exec-26--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-49-24-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-49-24-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-49-24-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-49-50-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-49-50-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-49-50-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-50-20-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-50-20-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-50-20-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-50-22-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-50-22-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-50-22-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-50-37-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-50-37-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-50-37-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-50-49-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-50-49-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-50-49-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-51-11-http-bio-8080-exec-26--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-51-11-http-bio-8080-exec-26--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-51-11-http-bio-8080-exec-26--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-51-28-http-bio-8080-exec-26--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-51-28-http-bio-8080-exec-26--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-51-28-http-bio-8080-exec-26--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-51-39-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-51-39-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-51-39-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-51-52-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-51-52-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-51-52-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-52-11-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-52-11-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-52-11-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-52-27-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-52-27-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-52-27-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-52-38-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-52-38-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-52-38-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-52-54-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-52-54-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-52-54-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-53-10-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-53-10-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-53-10-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-53-46-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-53-46-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-53-46-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-16-55-02-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-55-02-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-12-16-55-04-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-55-04-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-12-16-55-12-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-55-12-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-55-12-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ReserveDAO:Cinderella--Listing theaters
+2015-07-12-16-57-59-http-bio-8080-exec-21--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-57-59-http-bio-8080-exec-21--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-12-16-58-08-http-bio-8080-exec-21--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-58-08-http-bio-8080-exec-21--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-58-08-http-bio-8080-exec-21--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-12-16-59-00-http-bio-8080-exec-26--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-59-00-http-bio-8080-exec-26--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-12-16-59-07-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-59-07-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-16-59-07-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ReserveDAO:Hulk--Listing theaters
+2015-07-12-17-04-34-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-04-34-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-12-17-04-52-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-04-52-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-04-52-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ReserveDAO:Inside Out--Listing theaters
+2015-07-12-17-07-05-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-07-05-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-07-05-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-12-17-07-41-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-07-41-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-07-41-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-12-17-09-29-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-09-29-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-09-29-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ReserveDAO:Avengers2--Listing theaters
+2015-07-12-17-10-35-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-10-35-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-10-35-http-bio-8080-exec-25--INFO -com.pickmyreel.DAO.ReserveDAO:Chappie--Listing theaters
+2015-07-12-17-12-13-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-12-13-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-12-13-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:Chappie--Listing theaters
+2015-07-12-17-12-15-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-12-15-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-12-15-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ReserveDAO:Chappie--Listing theaters
+2015-07-12-17-12-30-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-13-22-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-13-22-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-12-17-13-29-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-13-29-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-13-29-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ReserveDAO:Chappie--Listing theaters
+2015-07-12-17-13-50-http-bio-8080-exec-10--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-13-50-http-bio-8080-exec-10--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-13-50-http-bio-8080-exec-10--INFO -com.pickmyreel.DAO.ReserveDAO:Chappie--Listing theaters
+2015-07-12-17-17-28-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-17-28-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-17-28-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:Jurassic World--Listing theaters
+2015-07-12-17-19-04-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-19-04-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-19-04-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ReserveDAO:Jurassic World--Listing theaters
+2015-07-12-17-23-41-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-23-41-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-23-41-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ReserveDAO:Fast and Furious7--Listing theaters
+2015-07-12-17-30-32-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-30-32-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-30-32-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ReserveDAO:Dawn of the Planet of the Apes--Listing theaters
+2015-07-12-17-33-38-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-33-38-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-12-17-33-47-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-33-47-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-33-47-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:The Raid--Listing theaters
+2015-07-12-17-39-33-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-39-33-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-39-33-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ReserveDAO:The Wolverine--Listing theaters
+2015-07-12-17-40-44-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-40-44-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-40-44-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ReserveDAO:The Wolverine--Listing theaters
+2015-07-12-17-45-46-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-45-46-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-45-46-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:Seventh son--Listing theaters
+2015-07-12-17-46-00-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-00-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-00-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-12-17-46-05-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-05-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-05-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:Cinderella--Listing theaters
+2015-07-12-17-46-11-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-11-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-11-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:Fast and Furious7--Listing theaters
+2015-07-12-17-46-16-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-16-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-16-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:Inside Out--Listing theaters
+2015-07-12-17-46-24-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-24-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-24-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:Spectre--Listing theaters
+2015-07-12-17-46-30-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-30-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-30-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ReserveDAO:Jurassic World--Listing theaters
+2015-07-12-17-46-36-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-36-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-17-46-36-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ReserveDAO:The Hobbit--Listing theaters
+2015-07-12-18-10-16-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-18-10-16-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-18-10-16-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ReserveDAO:Inside Out--Listing theaters
+2015-07-12-19-12-37-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-19-12-37-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-12-19-19-42-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-12-19-19-42-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-13-09-11-22-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-11-22-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-13-09-11-39-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-11-39-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-11-39-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ReserveDAO:Hulk--Listing theaters
+2015-07-13-09-13-23-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-13-23-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-13-09-15-24-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-15-24-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-13-09-15-51-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-15-51-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-15-51-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ReserveDAO:Jurassic World--Listing theaters
+2015-07-13-09-39-46-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-39-46-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-39-46-http-bio-8080-exec-5--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-09-40-52-http-bio-8080-exec-10--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-40-52-http-bio-8080-exec-10--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-40-52-http-bio-8080-exec-10--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-09-41-57-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-41-57-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-41-57-http-bio-8080-exec-3--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-09-43-36-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-43-36-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-43-36-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-09-47-57-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-47-57-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-47-57-http-bio-8080-exec-4--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-09-48-46-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-48-46-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-48-46-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-09-48-48-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-48-48-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-48-48-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-09-49-17-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-49-17-http-bio-8080-exec-8--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-13-09-49-25-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-49-25-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-09-49-25-http-bio-8080-exec-7--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-10-04-24-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-04-24-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-04-24-http-bio-8080-exec-2--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-10-04-49-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-04-49-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-13-10-04-57-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-04-57-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-04-57-http-bio-8080-exec-1--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-10-27-38-http-bio-8080-exec-6--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-27-38-http-bio-8080-exec-6--INFO -com.pickmyreel.DAO.UserDAO:leepika-CreatedID and LoggedIn
+2015-07-13-10-55-07-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-55-07-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.UserDAO:tejaswini-CreatedID and LoggedIn
+2015-07-13-10-55-34-http-bio-8080-exec-21--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-55-34-http-bio-8080-exec-21--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-55-34-http-bio-8080-exec-21--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-13-10-55-47-http-bio-8080-exec-21--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-57-09-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-57-09-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:inSeatChart
+2015-07-13-10-58-28-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-58-28-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-13-10-58-31-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-10-58-31-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-13-11-00-06-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-00-06-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-00-06-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ReserveDAO:Malifecient--Listing theaters
+2015-07-13-11-00-13-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-15-06-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-15-06-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-13-11-15-21-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-15-21-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-15-21-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-11-21-39-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-21-39-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-21-39-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-11-21-52-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-21-52-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.UserDAO:ravali-LoggedIn
+2015-07-13-11-22-01-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-22-01-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-22-01-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-11-22-52-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-22-52-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-22-52-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-11-22-55-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-22-55-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-22-55-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-11-22-56-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-22-56-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-22-56-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-11-23-35-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-23-35-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-23-35-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-11-23-42-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-23-42-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-23-42-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-11-26-33-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-26-33-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-26-33-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-11-26-51-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-26-51-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-26-51-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ReserveDAO:Kerintha--Listing theaters
+2015-07-13-11-30-55-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-30-55-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-30-55-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ReserveDAO:Kerintha--Listing theaters
+2015-07-13-11-34-47-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-34-47-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-34-47-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:Kerintha--Listing theaters
+2015-07-13-11-52-05-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-52-05-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-52-05-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ReserveDAO:Bajrangi Bhaijaan--Listing theaters
+2015-07-13-11-53-54-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-53-54-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-53-54-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ReserveDAO:I Love NY--Listing theaters
+2015-07-13-11-54-10-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-54-10-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-54-10-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ReserveDAO:I Love NY--Listing theaters
+2015-07-13-11-55-12-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-55-12-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-55-12-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ReserveDAO:I Love NY--Listing theaters
+2015-07-13-11-58-56-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-58-56-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-11-58-56-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ReserveDAO:I Love NY--Listing theaters
+2015-07-13-12-03-07-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-03-07-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-03-07-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ReserveDAO:Dil Dhadakne Do--Listing theaters
+2015-07-13-12-03-18-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-03-18-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-03-18-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ReserveDAO:I Love NY--Listing theaters
+2015-07-13-12-06-39-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-06-39-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-06-39-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ReserveDAO:I Love NY--Listing theaters
+2015-07-13-12-17-48-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-17-48-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-13-12-19-06-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-19-06-http-bio-8080-exec-19--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-13-12-19-14-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-19-14-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-19-14-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ReserveDAO:Hulk--Listing theaters
+2015-07-13-12-19-19-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-19-19-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-13-12-19-21-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-19-21-http-bio-8080-exec-22--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-13-12-23-00-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-23-00-http-bio-8080-exec-23--INFO -com.pickmyreel.DAO.UserDAO:ravali-History
+2015-07-13-12-24-10-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-24-10-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-24-10-http-bio-8080-exec-20--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-12-24-46-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-24-46-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-24-46-http-bio-8080-exec-18--INFO -com.pickmyreel.DAO.ReserveDAO:Baahubali-The Beginning--Listing theaters
+2015-07-13-12-24-59-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-24-59-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-24-59-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ReserveDAO:Kerintha--Listing theaters
+2015-07-13-12-25-05-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-25-05-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-25-05-http-bio-8080-exec-16--INFO -com.pickmyreel.DAO.ReserveDAO:Basthi--Listing theaters
+2015-07-13-12-30-05-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-30-05-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-30-05-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ReserveDAO:Basthi--Listing theaters
+2015-07-13-12-30-17-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-30-17-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-30-17-http-bio-8080-exec-24--INFO -com.pickmyreel.DAO.ReserveDAO:I Love NY--Listing theaters
+2015-07-13-12-30-25-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-30-25-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-30-25-http-bio-8080-exec-17--INFO -com.pickmyreel.DAO.ReserveDAO:Dil Dhadakne Do--Listing theaters
+2015-07-13-12-30-33-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-30-33-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ConnectionDAO:DriverLoded
+2015-07-13-12-30-33-http-bio-8080-exec-15--INFO -com.pickmyreel.DAO.ReserveDAO:Bajrangi Bhaijaan--Listing theaters
